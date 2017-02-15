@@ -3,8 +3,8 @@ var clon = 0;
 var clat = 0;
 
 
-var lat = -6.4025;
-var lon = 106.7942;
+//var lat = 0;
+//var lon = 0;
 
 var zoom = 1;
 
