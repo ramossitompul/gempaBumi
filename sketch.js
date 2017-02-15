@@ -70,7 +70,7 @@ function setup() {
 
 
 function draw() {
-    //createP('the color dot mark as eartquake');
+    createP('the dot color, mark as eartquake');
     
   
 }
