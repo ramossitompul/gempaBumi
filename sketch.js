@@ -12,7 +12,7 @@ var earthquakes;
 
 function preload(){
     mapimg = loadImage('https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/0,0,1,0,0/1024x512?access_token=pk.eyJ1IjoicmFtMjM0IiwiYSI6ImNpejRjcXJvdjAwczYyd290aHpybHh6b2IifQ.VisV_ssf3HjA51RWeQjrdg');
-    earthquakes = loadStrings('http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.csv');
+    earthquakes = loadStrings('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.csv');
 }
 
 function mercX(lon){
