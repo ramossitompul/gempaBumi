@@ -69,6 +69,7 @@ function setup() {
 
 
 function draw() {
+    createP('the color dot mark as eartquake');
     
   
 }
