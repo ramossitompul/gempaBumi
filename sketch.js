@@ -37,7 +37,7 @@ function setup() {
     translate(width/2, height/2);
     imageMode(CENTER);
     image(mapimg, 0,0);
-    createP('the dot color, mark as eartquake');
+    createP('the dot color, mark as eartquakes');
     
     var cx = mercX(clon);
     var cy = mercY(clat);
